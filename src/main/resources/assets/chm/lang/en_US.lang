@@ -1,0 +1,26 @@
+item.ingotCopper.name=Copper Ingot
+item.ingotSteel.name=Steel Ingot
+item.cheeseBurger.name=Cheese Burger
+item.taco.name=Taco
+item.cheezIt.name=Cheez-It
+item.corn.name=Corn
+item.cornSeed.name=Corn Seed
+item.roastedCorn.name=Roasted Corn
+item.swordCopper.name=Copper Sword
+item.pickaxeCopper.name=Copper Pickaxe
+item.axeCopper.name=Copper Axe
+item.shovelCopper.name=Copper Shovel
+item.hoeCopper.name=Copper Hoe
+item.helmetCopper.name=Copper Helmet
+item.chestplateCopper.name=Copper Chestplate
+item.leggingsCopper.name=Copper Leggings
+item.bootsCopper.name=Copper Boots
+item.helmetCheezIt.name=CheezIt Helmet
+item.chestplateCheezIt.name=CheezIt Chestplate
+item.leggingsCheezIt.name=CheezIt Leggings
+item.bootsCheezIt.name=CheezIt Boots
+
+tile.blockCopper.name=Block Of Copper
+tile.oreCopper.name=Copper Ore
+tile.blockSteel.name=Block Of Steel
+tile.cropCorn.name=Corn Crop
